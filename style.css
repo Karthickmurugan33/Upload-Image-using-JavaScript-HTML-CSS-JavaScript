@@ -1,0 +1,23 @@
+img {
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+    object-fit: cover;
+    margin-top: 200px;
+    background: rgb(155, 221, 237);
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: rgb(165, 242, 242);
+}
+
+input {
+    color: blue;
+    font-size: 20px;
+    margin-top: 35px;
+    margin-left: 190px;
+
+}
